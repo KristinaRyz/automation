@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium.txt.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium.txt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium.txt_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium.txt_main.iml" group="selenium.txt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium.txt_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium.txt_test.iml" group="selenium.txt" />
     </modules>
   </component>
 </project>
