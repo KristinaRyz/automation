@@ -12,15 +12,13 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.*;
 import static org.openqa.selenium.OutputType.*;
 
-public class GroupDeletionClass extends TestBase{
+public class ContactDeletionClass extends TestBase {
 
     @Test
-    public void groupDeletionClass() {
-        login();
-        goToGroupsPage();
-        selectGroup();
-        deleteGroup();
-        goToGroupPage();
+    public void contactDeletionClass() {
+        pageHome();
+        selectedBox();
+        confirmDelete();
     }
 
 }
