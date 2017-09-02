@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa10_LENA_main.iml" filepath="$PROJECT_DIR$/.idea/modules/qa10_LENA_main.iml" group="qa10_LENA" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/qa10_LENA_test.iml" filepath="$PROJECT_DIR$/.idea/modules/qa10_LENA_test.iml" group="qa10_LENA" />
       <module fileurl="file://$PROJECT_DIR$/selenium_class.iml" filepath="$PROJECT_DIR$/selenium_class.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium_class_main.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium_class_main.iml" group="selenium_class" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/selenium_class_test.iml" filepath="$PROJECT_DIR$/.idea/modules/selenium_class_test.iml" group="selenium_class" />
